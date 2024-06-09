@@ -136,3 +136,6 @@ After launching the server on port 8080, you can test execution of RESTful API b
 
 The license of this sample includes a code and is all *MIT License*.
 Use it as a base implementation at the time of the project start using Spring Boot.
+
+
+13:27:17 use jdk 17
